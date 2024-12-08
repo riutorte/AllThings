@@ -6,3 +6,5 @@
 "This is my third time here."
 
 "Now I am using VIMS."
+
+"I changed this file in GitHub."
