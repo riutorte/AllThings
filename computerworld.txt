@@ -2,3 +2,5 @@
 "I am making changes in GitHub now".
 "The track "Computer Love" was releases as a sevin-inch single in the UK, in July 1981, backed with "The Model", from the group's previous album The Man-Machine."
 "This is change #4 made in GitHub at 10:08 on 12/8/24"
+"this is my fourth change to this file."
+"In two photos, the mannequin representing Karl Bartos is seen playing Stylophone, an instrument which is featured on teh track, 'Packe Calculator'."
