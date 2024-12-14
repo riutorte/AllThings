@@ -1,0 +1,19 @@
+~41% of Drivers accepted bar coupons. The two charts I created which were histograms comparing whether or not certain respondents who accepted bar coupons, while valuable, were not useful for showing the distribution, by age, and did not tell the full story. To see who was really accepting the coupons, of those who drank, nearly half were 21 to 25 and the majority were 21 to 31.
+Using distributions tells a much better, more meaningful story for this type of data. There would not seem to be a statistical difference between those who are Not Farming, Fishing and Forestry Drivers, and visit 1+ a mnth with no passangers
+to others, meaning these variables are not important for analytics purposes
+This leads me to wanting to look at how accepted the coupons based on income and distance in general.
+I converted the income data to tiers to see if there were any differences in acceptence level of coupons by 
+people dependent on income.  The results indicated the coupon acceptance did vary slightly based on income but
+no discernabel pattern was detected.  However, I did discern coffee house, Restaurant <20 and then Carryout are most popular in this order.
+But since the number of coupons given out were different, I calculated the weighted average to see if the difference was affected by the 
+total number of coupons issued by type.  The weighted average acceptance rate compared to the non-weighted acceptance rates were similar, and
+while slightly different, it confirmed coffee house, Restaurant <20 and then Carryout are most popular.
+I then went to look at whether or not distance to the locale for the coupon made a difference in acceptance rate, as I would hypothesize 
+that longer distances might lead to lower acceptance rates.  However, I found an issue with the data, in that multiple entries are made
+per respondent on their distance from the locale, making this data not useful, without some other cleaning, or other mechanism to determine
+how to correclty leverage this data without issues.
+Finally, I have a general comment.  When Looking at this data in a spreadsheet versus only using python to explore it, it is much easier
+to quickly identify issues with the data and come to some conclusions using a spreadsheet, because errors and observations (such as the multiple
+entry issue, take seconds to find in a spreadsheet, but require a lot of effort with python.  Of course this may be because I am a novice.
+                                                                                                                            
+                                                                                                                            
