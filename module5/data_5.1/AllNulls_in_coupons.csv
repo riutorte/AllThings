@@ -1,0 +1,606 @@
+,destination,passanger,weather,temperature,time,coupon,expiration,gender,age,maritalStatus,has_children,education,occupation,income,Bar,CoffeeHouse,CarryAway,RestaurantLessThan20,Restaurant20To50,toCoupon_GEQ5min,toCoupon_GEQ15min,toCoupon_GEQ25min,direction_same,direction_opp,Y
+0,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,0,1,1
+1,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,0,1,0
+2,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+3,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,0
+4,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,0
+5,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+6,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+7,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+8,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+9,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,0
+10,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,0,1,1
+11,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+12,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+13,Home,Alone,Sunny,55,6PM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,1,0,1
+14,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+15,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,0,1,0
+16,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,1,0,1,1
+17,Work,Alone,Sunny,55,7AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,1,0,1,0
+18,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+19,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,1,0,1
+20,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,0,0,0,1,0
+21,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,never,never,,4~8,1~3,1,1,0,0,1,1
+495,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,1
+496,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,1
+497,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+498,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+499,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+500,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,1
+501,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,1
+502,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,0
+503,No Urgent Place,Partner,Sunny,80,10AM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,1
+504,No Urgent Place,Partner,Sunny,80,10AM,Bar,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,0
+505,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+506,No Urgent Place,Partner,Sunny,80,6PM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,1
+507,No Urgent Place,Partner,Sunny,80,6PM,Bar,1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+508,Home,Alone,Sunny,55,6PM,Bar,1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,1,0,0
+509,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,1
+510,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,0
+511,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,1,0,1,0
+512,Work,Alone,Sunny,55,7AM,Bar,1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,1,0,1,0
+513,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+514,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,1,0,1
+515,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,0,0,0,1,1
+516,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Unmarried partner,0,Bachelors degree,Community & Social Services,$12500 - $24999,never,,less1,less1,less1,1,1,0,0,1,0
+517,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,0,0,0,1,0
+518,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,0,0,0,1,0
+519,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,1,0,0,1,1
+520,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,0,0,0,1,0
+521,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,0,0,0,1,1
+522,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,50plus,Divorced,1,Some college - no degree,Management,$62500 - $74999,,,,,,1,0,0,0,1,1
+852,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,0,0,0,1,1
+853,No Urgent Place,Partner,Sunny,80,10AM,Restaurant(20-50),1d,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,0,0,0,1,1
+854,No Urgent Place,Partner,Sunny,80,10AM,Bar,2h,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,0,0,0,1,0
+855,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,1,0,0,1,1
+856,No Urgent Place,Partner,Sunny,80,6PM,Restaurant(<20),2h,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,0,0,0,1,1
+857,No Urgent Place,Partner,Sunny,80,6PM,Bar,1d,Male,41,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,,,,,,1,1,0,0,1,1
+902,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,0,1,1
+903,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,0,1,1
+904,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+905,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+906,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+907,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+908,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+909,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+910,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+911,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,0
+912,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,0,1,1
+913,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+914,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+915,Home,Alone,Sunny,55,6PM,Bar,1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,1,0,0
+916,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+917,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,0,1,1
+918,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,1,0,1,1
+919,Work,Alone,Sunny,55,7AM,Bar,1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,1,0,1,0
+920,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+921,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,1,0,1
+922,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,0,0,0,1,1
+923,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,31,Unmarried partner,1,Associates degree,Education&Training&Library,$50000 - $62499,never,never,4~8,,never,1,1,0,0,1,1
+1166,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,0,0,0,1,1
+1167,No Urgent Place,Partner,Sunny,80,10AM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,0,0,0,1,1
+1168,No Urgent Place,Partner,Sunny,80,10AM,Bar,2h,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,0,0,0,1,1
+1169,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,1,0,0,1,0
+1170,No Urgent Place,Partner,Sunny,80,6PM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,0,0,0,1,1
+1171,No Urgent Place,Partner,Sunny,80,6PM,Bar,1d,Male,26,Unmarried partner,0,Some college - no degree,Computer & Mathematical,$50000 - $62499,,,,,,1,1,0,0,1,1
+1194,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,0,1,1
+1195,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,0,1,0
+1196,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1197,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+1198,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+1199,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1200,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1201,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1202,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1203,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+1204,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,0,1,1
+1205,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+1206,Home,Alone,Sunny,55,6PM,Bar,1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,1,0,1
+1207,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,1
+1208,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,0,1,0
+1209,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,1,0,1,0
+1210,Work,Alone,Sunny,55,7AM,Bar,1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,1,0,1,1
+1211,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+1212,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,1,0,1
+1213,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,0,0,0,1,0
+1214,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Sales & Related,$12500 - $24999,1~3,,4~8,4~8,,1,1,0,0,1,0
+2380,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,0,0,0,1,1
+2381,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,0,0,0,1,0
+2382,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,1,0,0,1,1
+2383,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,0,0,0,1,0
+2384,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,0,0,0,1,0
+2385,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,26,Single,0,Some college - no degree,Computer & Mathematical,$87500 - $99999,,,,,,1,0,0,0,1,1
+2866,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,1,0,0,1,1
+2867,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,1,0,0,1,1
+2868,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,1,0,0,1,0
+2869,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,0,0,0,1,1
+2870,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,1,0,0,1,1
+2871,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,31,Married partner,1,Some college - no degree,Business & Financial,$37500 - $49999,,,,,,1,1,0,0,1,0
+2872,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,0,1,1
+2873,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,0,1,1
+2874,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,0
+2875,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2876,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2877,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2878,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2879,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2880,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2881,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,0
+2882,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,0,1,1
+2883,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2884,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,0
+2885,Home,Alone,Sunny,55,6PM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,1,0,1
+2886,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,0
+2887,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,0,1,1
+2888,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,1,0,1,0
+2889,Work,Alone,Sunny,55,7AM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,1,0,1,1
+2890,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,1
+2891,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,1,0,1
+2892,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,0,0,0,1,1
+2893,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$50000 - $62499,,1~3,4~8,1~3,1~3,1,1,0,0,1,0
+3137,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,0,0,0,1,0
+3138,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,0,0,0,1,1
+3139,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,1,0,0,1,1
+3140,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,0,0,0,1,0
+3141,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,0,0,0,1,1
+3142,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,21,Single,0,High School Graduate,Unemployed,Less than $12500,,,,,,1,0,0,0,1,1
+3354,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,0,0,0,1,1
+3355,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,0,0,0,1,1
+3356,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,1,0,0,1,1
+3357,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,0,0,0,1,1
+3358,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,0,0,0,1,1
+3359,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,50plus,Divorced,1,Bachelors degree,Computer & Mathematical,$25000 - $37499,,,,,,1,0,0,0,1,0
+3514,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3515,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3516,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3517,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3518,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3519,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3520,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3521,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3522,No Urgent Place,Partner,Sunny,80,10AM,Restaurant(20-50),1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3523,No Urgent Place,Partner,Sunny,80,10AM,Bar,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3524,No Urgent Place,Partner,Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3525,No Urgent Place,Partner,Sunny,80,6PM,Restaurant(<20),2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3526,No Urgent Place,Partner,Sunny,80,6PM,Bar,1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3527,Home,Alone,Sunny,55,6PM,Bar,1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,1,0,0
+3528,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3529,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,1
+3530,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,1,0,1,0
+3531,Work,Alone,Sunny,55,7AM,Bar,1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,1,0,1,1
+3532,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,1
+3533,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,1,0,0
+3534,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,0,0,0,1,0
+3535,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,0,Graduate degree (Masters or Doctorate),Student,$25000 - $37499,less1,4~8,1~3,,less1,1,1,0,0,1,0
+3558,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3559,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3560,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3561,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,0
+3562,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3563,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,0
+3564,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,1
+3565,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,1
+3566,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,0
+3567,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,1
+3568,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,0
+3569,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,1
+3570,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3571,Home,Alone,Sunny,55,6PM,Bar,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,1,0,1
+3572,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,0
+3573,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,0
+3574,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,1,0,1,1
+3575,Work,Alone,Sunny,55,7AM,Bar,1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,1,0,1,1
+3576,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,1
+3577,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,1,0,1
+3578,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,0,0,0,1,1
+3579,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Arts Design Entertainment Sports & Media,$50000 - $62499,gt8,1~3,,4~8,less1,1,1,0,0,1,0
+4721,No Urgent Place,Alone,Sunny,80,10AM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,0,1,1
+4722,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,1
+4723,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,1
+4724,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,1
+4725,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,0,1,1
+4726,No Urgent Place,Alone,Sunny,80,2PM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,1
+4727,Home,Alone,Sunny,80,6PM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,1
+4728,Home,Alone,Sunny,80,6PM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,0,1,1
+4729,Home,Alone,Sunny,55,10PM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,1,0,1,1
+4730,Home,Alone,Sunny,80,6PM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,1
+4731,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,1,0,1,1
+4732,Home,Alone,Sunny,80,10PM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,0
+4733,Home,Alone,Sunny,80,10PM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,1
+4734,Home,Alone,Sunny,80,10PM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,1,0,1
+4735,Work,Alone,Sunny,80,7AM,Coffee House,2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,1
+4736,Work,Alone,Sunny,80,7AM,Coffee House,2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,1,0,1
+4737,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,0
+4738,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,1,0,1,1
+4739,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,1,0,1,1
+4740,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,0,0,1,0,1
+4741,Work,Alone,Sunny,55,7AM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$87500 - $99999,never,4~8,,4~8,less1,1,1,0,0,1,1
+4874,No Urgent Place,Alone,Sunny,80,10AM,Bar,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,0,1,0
+4875,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,1
+4876,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,1
+4877,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,1
+4878,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,0,1,0
+4879,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,0
+4880,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,1
+4881,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,0
+4882,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,0,1,0
+4883,No Urgent Place,Kid(s),Sunny,55,2PM,Coffee House,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,0
+4884,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,0
+4885,Home,Alone,Sunny,80,6PM,Coffee House,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,1
+4886,Home,Alone,Sunny,80,6PM,Coffee House,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,0,1,0
+4887,Home,Alone,Sunny,80,6PM,Restaurant(<20),2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,1
+4888,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,1,0,1,0
+4889,Home,Alone,Sunny,80,10PM,Restaurant(<20),2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,1
+4890,Home,Alone,Sunny,80,10PM,Carry out & Take away,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,1
+4891,Work,Alone,Sunny,80,7AM,Coffee House,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,0
+4892,Work,Alone,Sunny,80,7AM,Coffee House,2h,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,1,0,1
+4893,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,1,0,1,0
+4894,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,0,0,1,0,0
+4895,Work,Alone,Sunny,55,7AM,Coffee House,1d,Male,31,Married partner,1,Bachelors degree,Management,$50000 - $62499,never,never,never,less1,,1,1,0,0,1,1
+5413,No Urgent Place,Alone,Sunny,80,10AM,Bar,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,0,1,0
+5414,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,1
+5415,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,1
+5416,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,1
+5417,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,0,1,1
+5418,No Urgent Place,Alone,Sunny,80,2PM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,1
+5419,Home,Alone,Sunny,55,6PM,Restaurant(20-50),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,0
+5420,Home,Alone,Sunny,80,6PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,1
+5421,Home,Alone,Sunny,80,6PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,0,1,0
+5422,Home,Alone,Sunny,55,10PM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,1,0,1,0
+5423,Home,Alone,Sunny,80,6PM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,1
+5424,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,1,0,1,0
+5425,Home,Alone,Sunny,80,10PM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,0
+5426,Home,Alone,Sunny,80,10PM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,0
+5427,Home,Alone,Sunny,80,10PM,Bar,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,1,0,0
+5428,Work,Alone,Sunny,80,7AM,Coffee House,2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,1
+5429,Work,Alone,Sunny,80,7AM,Coffee House,2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,1,0,1
+5430,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,0
+5431,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,1,0,1,1
+5432,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,1,0,1,0
+5433,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,0,0,1,0,1
+5434,Work,Alone,Sunny,55,7AM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Personal Care & Service,$12500 - $24999,never,,1~3,1~3,less1,1,1,0,0,1,0
+5653,No Urgent Place,Alone,Sunny,80,10AM,Bar,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,0,1,0
+5654,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,0
+5655,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,0
+5656,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,1
+5657,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,0,1,1
+5658,No Urgent Place,Alone,Sunny,80,2PM,Restaurant(<20),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,1
+5659,Home,Alone,Sunny,55,6PM,Restaurant(20-50),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,0
+5660,Home,Alone,Sunny,80,6PM,Coffee House,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,0
+5661,Home,Alone,Sunny,80,6PM,Coffee House,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,0,1,0
+5662,Home,Alone,Sunny,55,10PM,Carry out & Take away,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,1,0,1,0
+5663,Home,Alone,Sunny,80,6PM,Restaurant(<20),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,1
+5664,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,1,0,1,0
+5665,Home,Alone,Sunny,80,10PM,Restaurant(<20),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,0
+5666,Home,Alone,Sunny,80,10PM,Carry out & Take away,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,1
+5667,Home,Alone,Sunny,80,10PM,Bar,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,1,0,1
+5668,Work,Alone,Sunny,80,7AM,Coffee House,2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,0
+5669,Work,Alone,Sunny,80,7AM,Coffee House,2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,1,0,0
+5670,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,0
+5671,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,1,0,1,0
+5672,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,1,0,1,0
+5673,Work,Alone,Sunny,80,7AM,Carry out & Take away,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,0,0,1,0,0
+5674,Work,Alone,Sunny,55,7AM,Coffee House,1d,Female,31,Single,1,Bachelors degree,Production Occupations,$37500 - $49999,less1,less1,4~8,,less1,1,1,0,0,1,0
+6582,No Urgent Place,Kid(s),Rainy,55,10AM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,1
+6583,No Urgent Place,Kid(s),Rainy,55,6PM,Carry out & Take away,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,0,1,1
+6584,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,0
+6585,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(20-50),2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,0,1,0
+6586,No Urgent Place,Friend(s),Sunny,30,10PM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,0
+6587,No Urgent Place,Alone,Sunny,55,10PM,Restaurant(20-50),1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,0
+6588,No Urgent Place,Friend(s),Rainy,55,6PM,Restaurant(<20),2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,1
+6589,No Urgent Place,Kid(s),Sunny,80,10AM,Coffee House,2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,1
+6590,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,1,0,0
+6591,Home,Alone,Sunny,55,6PM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,1,0,0
+6592,Home,Kid(s),Sunny,55,6PM,Restaurant(20-50),1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,1,0,1,0
+6593,Home,Alone,Sunny,55,6PM,Bar,2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,1,0,0
+6594,Home,Kid(s),Snowy,30,10PM,Restaurant(20-50),2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,0,1,0
+6595,Home,Alone,Sunny,80,6PM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,0,1,0
+6596,Home,Alone,Snowy,30,6PM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,1,0,1
+6597,Home,Alone,Sunny,80,10PM,Carry out & Take away,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,1
+6598,Work,Alone,Sunny,55,7AM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,1,0,1,1
+6599,Work,Alone,Sunny,55,7AM,Bar,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,1,0,1,0
+6600,Work,Alone,Sunny,80,7AM,Coffee House,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,0,1,0,1
+6601,Work,Alone,Sunny,30,7AM,Bar,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,0
+6602,Work,Alone,Rainy,55,7AM,Bar,1d,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,0,0,0,1,1
+6603,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Male,36,Married partner,1,Associates degree,Management,$87500 - $99999,never,,less1,less1,never,1,1,1,0,1,1
+7349,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7350,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,0,1,1
+7351,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,0
+7352,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,0,1,1
+7353,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,0,1,1
+7354,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,0
+7355,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7356,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7357,No Urgent Place,Partner,Sunny,80,10PM,Restaurant(<20),1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7358,No Urgent Place,Partner,Sunny,30,10AM,Bar,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,0
+7359,No Urgent Place,Partner,Rainy,55,10AM,Carry out & Take away,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,0,1,1
+7360,No Urgent Place,Partner,Rainy,55,2PM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7361,No Urgent Place,Partner,Snowy,30,2PM,Coffee House,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,0
+7362,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,1,0,1
+7363,Home,Alone,Snowy,30,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,0,0,1,1
+7364,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,0,1,0
+7365,Home,Partner,Sunny,80,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,1,0,1
+7366,Home,Alone,Sunny,80,6PM,Bar,2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,1,0,0
+7367,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,1,0,1,1
+7368,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,1,0,1,1
+7369,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,1,1,0,1,0
+7370,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Male,26,Married partner,0,Bachelors degree,Education&Training&Library,$37500 - $49999,never,,1~3,1~3,less1,1,0,0,1,0,1
+8605,No Urgent Place,Kid(s),Rainy,55,6PM,Carry out & Take away,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8606,No Urgent Place,Kid(s),Rainy,55,10PM,Bar,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,0
+8607,No Urgent Place,Kid(s),Snowy,30,6PM,Bar,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8608,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,0
+8609,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,0,1,0
+8610,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,0
+8611,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,0,1,0
+8612,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,0,1,0
+8613,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8614,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8615,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8616,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(20-50),1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,0,1,1
+8617,No Urgent Place,Kid(s),Sunny,55,2PM,Coffee House,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8618,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,1,0,1
+8619,Home,Alone,Snowy,30,6PM,Coffee House,1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,0
+8620,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,0,1,0
+8621,Home,Alone,Sunny,80,6PM,Bar,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,1,0,1
+8622,Home,Partner,Sunny,30,10PM,Carry out & Take away,2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,0,0,1,1
+8623,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,1,0,1,0
+8624,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,1,0,1,0
+8625,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,1,1,0,1,1
+8626,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Female,50plus,Married partner,1,Associates degree,Office & Administrative Support,$75000 - $87499,1~3,4~8,,4~8,4~8,1,0,0,1,0,1
+8627,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,1
+8628,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,0,1,1
+8629,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,1
+8630,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,0,1,1
+8631,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,0,1,1
+8632,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,1
+8633,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8634,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8635,No Urgent Place,Partner,Sunny,80,10PM,Restaurant(<20),1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8636,No Urgent Place,Partner,Sunny,30,10AM,Bar,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8637,No Urgent Place,Partner,Rainy,55,10AM,Carry out & Take away,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,0,1,1
+8638,No Urgent Place,Partner,Rainy,55,2PM,Restaurant(<20),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8639,No Urgent Place,Partner,Snowy,30,2PM,Coffee House,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,1
+8640,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,1,0,1
+8641,Home,Alone,Snowy,30,6PM,Coffee House,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,0,0,1,0
+8642,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,0,1,0
+8643,Home,Partner,Sunny,80,6PM,Coffee House,1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,1,0,1
+8644,Home,Alone,Sunny,80,6PM,Bar,2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,1,0,1
+8645,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,1,0,1,0
+8646,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,1,0,1,0
+8647,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,1,1,0,1,0
+8648,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Female,26,Married partner,0,Bachelors degree,Unemployed,$87500 - $99999,1~3,less1,,less1,less1,1,0,0,1,0,0
+8780,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8781,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,0,1,1
+8782,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,0
+8783,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,0,1,1
+8784,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,0,1,1
+8785,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8786,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8787,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8788,No Urgent Place,Partner,Sunny,80,10PM,Restaurant(<20),1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8789,No Urgent Place,Partner,Sunny,30,10AM,Bar,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8790,No Urgent Place,Partner,Rainy,55,10AM,Carry out & Take away,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,0,1,1
+8791,No Urgent Place,Partner,Rainy,55,2PM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,0
+8792,No Urgent Place,Partner,Snowy,30,2PM,Coffee House,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,1
+8793,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,1,0,1
+8794,Home,Alone,Snowy,30,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,0,0,1,0
+8795,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,0,1,0
+8796,Home,Partner,Sunny,80,6PM,Coffee House,1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,1,0,0
+8797,Home,Alone,Sunny,80,6PM,Bar,2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,1,0,1
+8798,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,1,0,1,0
+8799,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,1,0,1,0
+8800,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,1,1,0,1,0
+8801,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Male,26,Married partner,0,Bachelors degree,Computer & Mathematical,$100000 or More,4~8,,1~3,1~3,less1,1,0,0,1,0,1
+8956,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8957,No Urgent Place,Friend(s),Sunny,80,10PM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8958,No Urgent Place,Friend(s),Sunny,30,10PM,Carry out & Take away,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8959,No Urgent Place,Alone,Rainy,55,10AM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8960,No Urgent Place,Alone,Snowy,30,2PM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,0,1,1
+8961,No Urgent Place,Alone,Sunny,80,10PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,0,1,1
+8962,No Urgent Place,Kid(s),Sunny,80,10AM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,0,1,1
+8963,No Urgent Place,Kid(s),Sunny,80,2PM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,0,1,1
+8964,No Urgent Place,Kid(s),Sunny,80,10PM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8965,Home,Kid(s),Sunny,80,6PM,Restaurant(20-50),2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,1,0,1
+8966,Home,Kid(s),Sunny,80,10PM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,0
+8967,Home,Kid(s),Sunny,30,6PM,Bar,2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,1
+8968,Home,Alone,Sunny,80,6PM,Carry out & Take away,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,0,1,1
+8969,Home,Alone,Sunny,80,6PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,1,0,1
+8970,Home,Alone,Rainy,55,6PM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,1,0,1,0
+8971,Home,Alone,Snowy,30,10PM,Restaurant(<20),2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,1,0,1,1
+8972,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,0,1,0
+8973,Work,Alone,Sunny,30,7AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,1,0,0
+8974,Work,Alone,Rainy,55,7AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,1,0,1
+8975,Work,Alone,Sunny,80,7AM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,0,0,1,0,1
+8976,Work,Alone,Rainy,55,7AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,1,0,1,1
+8977,Work,Alone,Snowy,30,7AM,Carry out & Take away,1d,Female,21,Unmarried partner,1,Some college - no degree,Food Preparation & Serving Related,Less than $12500,never,1~3,4~8,,4~8,1,1,0,1,0,1
+9138,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,2h,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,0
+9139,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,0
+9140,No Urgent Place,Friend(s),Sunny,80,10PM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,1
+9141,No Urgent Place,Friend(s),Sunny,55,10AM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,0
+9142,No Urgent Place,Friend(s),Sunny,30,10PM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,1
+9143,No Urgent Place,Friend(s),Rainy,55,10PM,Restaurant(20-50),2h,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,0
+9144,No Urgent Place,Alone,Sunny,30,10AM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,1
+9145,No Urgent Place,Alone,Rainy,55,10AM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,1
+9146,No Urgent Place,Alone,Snowy,30,2PM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,0,1,0
+9147,No Urgent Place,Alone,Sunny,80,10PM,Restaurant(<20),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,0,1,1
+9148,Home,Alone,Sunny,30,6PM,Restaurant(20-50),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,1,0,0
+9149,Home,Alone,Sunny,80,6PM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,0,1,1
+9150,Home,Alone,Sunny,80,6PM,Restaurant(<20),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,1,0,1
+9151,Home,Alone,Rainy,55,6PM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,1,0,1,0
+9152,Home,Alone,Snowy,30,10PM,Restaurant(<20),2h,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,1,0,1,0
+9153,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,0,1,0
+9154,Work,Alone,Sunny,30,7AM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,1,0,0
+9155,Work,Alone,Rainy,55,7AM,Carry out & Take away,2h,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,1,0,0
+9156,Work,Alone,Sunny,80,7AM,Coffee House,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,1,0,1
+9157,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,0,0,0,1,1
+9158,Work,Alone,Rainy,55,7AM,Bar,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,1,0,1,0
+9159,Work,Alone,Snowy,30,7AM,Carry out & Take away,1d,Male,below21,Single,0,Some college - no degree,Student,$25000 - $37499,never,never,less1,never,,1,1,0,1,0,0
+9642,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9643,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,0
+9644,No Urgent Place,Friend(s),Sunny,80,10PM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,0
+9645,No Urgent Place,Friend(s),Sunny,55,10AM,Restaurant(<20),2h,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9646,No Urgent Place,Friend(s),Sunny,30,10PM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9647,No Urgent Place,Friend(s),Rainy,55,10PM,Restaurant(20-50),2h,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9648,No Urgent Place,Alone,Sunny,30,10AM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9649,No Urgent Place,Alone,Rainy,55,10AM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,1
+9650,No Urgent Place,Alone,Snowy,30,2PM,Bar,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,0,1,0
+9651,No Urgent Place,Alone,Sunny,80,10PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,0,1,0
+9652,Home,Alone,Sunny,30,6PM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,1,0,0
+9653,Home,Alone,Sunny,80,6PM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,0,1,1
+9654,Home,Alone,Sunny,80,6PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,1,0,1
+9655,Home,Alone,Rainy,55,6PM,Bar,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,1,0,1,1
+9656,Home,Alone,Snowy,30,10PM,Restaurant(<20),2h,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,1,0,1,0
+9657,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,0,1,0
+9658,Work,Alone,Sunny,30,7AM,Bar,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,1,0,0
+9659,Work,Alone,Rainy,55,7AM,Carry out & Take away,2h,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,1,0,0
+9660,Work,Alone,Sunny,80,7AM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,1,0,1
+9661,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,0,0,0,1,1
+9662,Work,Alone,Rainy,55,7AM,Bar,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,1,0,1,0
+9663,Work,Alone,Snowy,30,7AM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Student,$25000 - $37499,1~3,4~8,4~8,1~3,,1,1,0,1,0,0
+10382,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,1
+10383,No Urgent Place,Friend(s),Sunny,80,10PM,Coffee House,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,1
+10384,No Urgent Place,Friend(s),Sunny,30,10PM,Carry out & Take away,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,0
+10385,No Urgent Place,Alone,Rainy,55,10AM,Coffee House,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,1
+10386,No Urgent Place,Alone,Snowy,30,2PM,Bar,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,0,1,0
+10387,No Urgent Place,Alone,Sunny,80,10PM,Restaurant(<20),1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,0,1,0
+10388,No Urgent Place,Kid(s),Sunny,80,10AM,Coffee House,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,0,1,1
+10389,No Urgent Place,Kid(s),Sunny,80,2PM,Coffee House,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,0,1,1
+10390,No Urgent Place,Kid(s),Sunny,80,10PM,Restaurant(20-50),1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,1
+10391,Home,Kid(s),Sunny,80,6PM,Restaurant(20-50),2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,1,0,1
+10392,Home,Kid(s),Sunny,80,10PM,Carry out & Take away,2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,0
+10393,Home,Kid(s),Sunny,30,6PM,Bar,2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,1
+10394,Home,Alone,Sunny,80,6PM,Carry out & Take away,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,0,1,1
+10395,Home,Alone,Sunny,80,6PM,Restaurant(<20),1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,1,0,0
+10396,Home,Alone,Rainy,55,6PM,Bar,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,1,0,1,0
+10397,Home,Alone,Snowy,30,10PM,Restaurant(<20),2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,1,0,1,0
+10398,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,0,1,0
+10399,Work,Alone,Sunny,30,7AM,Bar,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,1,0,0
+10400,Work,Alone,Rainy,55,7AM,Carry out & Take away,2h,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,1,0,0
+10401,Work,Alone,Sunny,80,7AM,Coffee House,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,0,0,1,0,0
+10402,Work,Alone,Rainy,55,7AM,Bar,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,1,0,1,0
+10403,Work,Alone,Snowy,30,7AM,Carry out & Take away,1d,Male,41,Married partner,1,Bachelors degree,Arts Design Entertainment Sports & Media,$37500 - $49999,,less1,1~3,4~8,1~3,1,1,0,1,0,0
+10685,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,0,1,0
+10686,No Urgent Place,Friend(s),Sunny,30,10PM,Carry out & Take away,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,0,1,1
+10687,No Urgent Place,Alone,Rainy,55,10AM,Coffee House,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,0,1,1
+10688,No Urgent Place,Alone,Snowy,30,2PM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,0,0,0,1,1
+10689,No Urgent Place,Alone,Sunny,80,10PM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,0,0,0,1,1
+10690,No Urgent Place,Kid(s),Sunny,80,10PM,Restaurant(20-50),1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,0,1,1
+10691,Home,Alone,Sunny,80,6PM,Carry out & Take away,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,0,0,0,1,1
+10692,Home,Alone,Sunny,80,6PM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,0,0,1,0,1
+10693,Home,Alone,Rainy,55,6PM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,1,0,1,1
+10694,Home,Alone,Snowy,30,10PM,Restaurant(<20),2h,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,1,0,1,0
+10695,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,0,1,0
+10696,Work,Alone,Sunny,30,7AM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,1,0,1
+10697,Work,Alone,Rainy,55,7AM,Carry out & Take away,2h,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,1,0,0
+10698,Work,Alone,Sunny,80,7AM,Coffee House,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,0,0,1,0,1
+10699,Work,Alone,Rainy,55,7AM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,1,0,1,1
+10700,Work,Alone,Snowy,30,7AM,Carry out & Take away,1d,Male,26,Married partner,1,Bachelors degree,Management,$12500 - $24999,1~3,4~8,1~3,1~3,,1,1,0,1,0,1
+11845,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11846,No Urgent Place,Friend(s),Sunny,80,10PM,Bar,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,0,1,1
+11847,No Urgent Place,Friend(s),Sunny,55,10PM,Bar,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,0,1,1
+11848,No Urgent Place,Friend(s),Sunny,30,10AM,Carry out & Take away,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11849,No Urgent Place,Friend(s),Snowy,30,2PM,Restaurant(<20),1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11850,No Urgent Place,Alone,Rainy,55,10AM,Bar,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,0,1,0
+11851,No Urgent Place,Alone,Sunny,80,10AM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11852,No Urgent Place,Partner,Sunny,30,10AM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11853,No Urgent Place,Partner,Rainy,55,6PM,Bar,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,0,1,0
+11854,No Urgent Place,Partner,Snowy,30,10AM,Restaurant(<20),1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11855,Home,Alone,Sunny,80,6PM,Carry out & Take away,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,1,0,1
+11856,Home,Alone,Sunny,30,6PM,Carry out & Take away,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,1
+11857,Home,Alone,Rainy,55,10PM,Coffee House,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,1,0,0
+11858,Home,Alone,Snowy,30,10PM,Coffee House,2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,0,1,0
+11859,Home,Alone,Sunny,80,6PM,Restaurant(20-50),1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,1,0,0
+11860,Home,Partner,Sunny,30,6PM,Restaurant(<20),1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,1,0,1,0
+11861,Home,Partner,Sunny,30,10PM,Restaurant(<20),2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,0,1,0,0
+11862,Home,Partner,Rainy,55,6PM,Carry out & Take away,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,1,0,1
+11863,Work,Alone,Rainy,55,7AM,Carry out & Take away,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,0,1,0
+11864,Work,Alone,Snowy,30,7AM,Coffee House,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,1,0,1
+11865,Work,Alone,Snowy,30,7AM,Bar,1d,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,1,1,0,1,0
+11866,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Male,26,Unmarried partner,0,Graduate degree (Masters or Doctorate),Healthcare Practitioners & Technical,$25000 - $37499,less1,,1~3,never,never,1,0,0,1,0,0
+12064,No Urgent Place,Kid(s),Sunny,30,10PM,Restaurant(20-50),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,0
+12065,No Urgent Place,Kid(s),Snowy,30,6PM,Bar,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,0
+12066,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12067,No Urgent Place,Friend(s),Sunny,80,10PM,Bar,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,0
+12068,No Urgent Place,Friend(s),Sunny,55,10PM,Bar,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,0
+12069,No Urgent Place,Friend(s),Sunny,30,10AM,Carry out & Take away,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12070,No Urgent Place,Friend(s),Snowy,30,2PM,Restaurant(<20),1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12071,No Urgent Place,Alone,Rainy,55,10AM,Bar,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,0
+12072,No Urgent Place,Alone,Sunny,80,10AM,Restaurant(<20),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12073,No Urgent Place,Kid(s),Sunny,55,6PM,Restaurant(<20),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,1
+12074,Home,Kid(s),Sunny,55,10PM,Restaurant(20-50),1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,1,0,0
+12075,Home,Kid(s),Sunny,55,10PM,Restaurant(20-50),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,0
+12076,Home,Partner,Sunny,30,10PM,Bar,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,1,0,1,0
+12077,Home,Alone,Sunny,80,6PM,Carry out & Take away,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,1,0,1
+12078,Home,Alone,Sunny,30,6PM,Carry out & Take away,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12079,Home,Alone,Rainy,55,10PM,Coffee House,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,1,0,1
+12080,Home,Alone,Snowy,30,10PM,Coffee House,2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,0,0,1,1
+12081,Home,Alone,Sunny,80,6PM,Restaurant(20-50),1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,1,0,1
+12082,Work,Alone,Rainy,55,7AM,Carry out & Take away,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,0,1,1
+12083,Work,Alone,Snowy,30,7AM,Coffee House,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,1,0,1
+12084,Work,Alone,Snowy,30,7AM,Bar,1d,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,1,1,0,1,0
+12085,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,46,Married partner,1,Bachelors degree,Business & Financial,$100000 or More,never,4~8,4~8,1~3,,1,0,0,1,0,0
+12152,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12153,No Urgent Place,Friend(s),Sunny,80,10PM,Bar,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,0,1,0
+12154,No Urgent Place,Friend(s),Sunny,55,10PM,Bar,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,0,1,0
+12155,No Urgent Place,Friend(s),Sunny,30,10AM,Carry out & Take away,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12156,No Urgent Place,Friend(s),Snowy,30,2PM,Restaurant(<20),1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12157,No Urgent Place,Alone,Rainy,55,10AM,Bar,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,0,1,0
+12158,No Urgent Place,Alone,Rainy,55,2PM,Carry out & Take away,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12159,No Urgent Place,Alone,Sunny,80,10AM,Restaurant(<20),2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12160,No Urgent Place,Alone,Snowy,30,10AM,Restaurant(<20),1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,0,1,0
+12161,Home,Alone,Sunny,80,6PM,Carry out & Take away,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,1,0,0
+12162,Home,Alone,Sunny,30,6PM,Carry out & Take away,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12163,Home,Alone,Rainy,55,10PM,Coffee House,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,1,0,0
+12164,Home,Alone,Snowy,30,10PM,Coffee House,2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,0,0,1,0
+12165,Home,Alone,Snowy,30,10PM,Carry out & Take away,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,1,0,1,0
+12166,Home,Alone,Sunny,80,6PM,Restaurant(20-50),1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,1,0,0
+12167,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12168,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,1,0,0
+12169,Work,Alone,Rainy,55,7AM,Carry out & Take away,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,0,1,0
+12170,Work,Alone,Snowy,30,7AM,Coffee House,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,1,0,1
+12171,Work,Alone,Snowy,30,7AM,Bar,1d,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,1,1,0,1,0
+12172,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,31,Single,0,Associates degree,Arts Design Entertainment Sports & Media,$75000 - $87499,,less1,gt8,1~3,less1,1,0,0,1,0,0
+12283,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12284,No Urgent Place,Friend(s),Sunny,80,10PM,Bar,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,0
+12285,No Urgent Place,Friend(s),Sunny,55,10PM,Bar,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,0
+12286,No Urgent Place,Friend(s),Sunny,30,10AM,Carry out & Take away,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12287,No Urgent Place,Friend(s),Snowy,30,2PM,Restaurant(<20),1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12288,No Urgent Place,Alone,Rainy,55,10AM,Bar,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,0
+12289,No Urgent Place,Alone,Rainy,55,2PM,Carry out & Take away,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12290,No Urgent Place,Alone,Sunny,80,10AM,Restaurant(<20),2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12291,No Urgent Place,Alone,Snowy,30,10AM,Restaurant(<20),1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,1
+12292,Home,Alone,Sunny,80,6PM,Carry out & Take away,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,1,0,1
+12293,Home,Alone,Sunny,30,6PM,Carry out & Take away,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12294,Home,Alone,Rainy,55,10PM,Coffee House,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,1,0,0
+12295,Home,Alone,Snowy,30,10PM,Coffee House,2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,0
+12296,Home,Alone,Snowy,30,10PM,Carry out & Take away,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,1,0,1,0
+12297,Home,Alone,Sunny,80,6PM,Restaurant(20-50),1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,1,0,1
+12298,Home,Alone,Sunny,80,10PM,Restaurant(20-50),1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,0
+12299,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,1,0,0
+12300,Work,Alone,Rainy,55,7AM,Carry out & Take away,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,0,1,1
+12301,Work,Alone,Snowy,30,7AM,Coffee House,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,1,0,1
+12302,Work,Alone,Snowy,30,7AM,Restaurant(<20),1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,0,0,1,0
+12303,Work,Alone,Snowy,30,7AM,Bar,1d,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,1,1,0,1,0
+12304,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,50plus,Widowed,1,High School Graduate,Retired,$12500 - $24999,never,never,4~8,1~3,,1,0,0,1,0,0
+12392,No Urgent Place,Kid(s),Sunny,30,10PM,Restaurant(20-50),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12393,No Urgent Place,Kid(s),Snowy,30,6PM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12394,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12395,No Urgent Place,Friend(s),Sunny,80,10PM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,0
+12396,No Urgent Place,Friend(s),Sunny,55,10PM,Bar,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,0
+12397,No Urgent Place,Friend(s),Sunny,30,10AM,Carry out & Take away,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12398,No Urgent Place,Friend(s),Snowy,30,2PM,Restaurant(<20),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12399,No Urgent Place,Alone,Rainy,55,10AM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,0
+12400,No Urgent Place,Alone,Sunny,80,10AM,Restaurant(<20),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,0
+12401,No Urgent Place,Kid(s),Sunny,55,6PM,Restaurant(<20),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,1
+12402,Home,Kid(s),Sunny,55,10PM,Restaurant(20-50),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,1,0,0
+12403,Home,Kid(s),Sunny,55,10PM,Restaurant(20-50),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,0
+12404,Home,Partner,Sunny,30,10PM,Bar,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,1,0,1,0
+12405,Home,Alone,Sunny,80,6PM,Carry out & Take away,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,1,0,1
+12406,Home,Alone,Sunny,30,6PM,Carry out & Take away,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,1
+12407,Home,Alone,Rainy,55,10PM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,1,0,0
+12408,Home,Alone,Snowy,30,10PM,Coffee House,2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,0,0,1,0
+12409,Home,Alone,Sunny,80,6PM,Restaurant(20-50),1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,1,0,1
+12410,Work,Alone,Rainy,55,7AM,Carry out & Take away,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,0,1,1
+12411,Work,Alone,Snowy,30,7AM,Coffee House,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,1,0,0
+12412,Work,Alone,Snowy,30,7AM,Bar,1d,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,1,1,0,1,0
+12413,Work,Alone,Sunny,80,7AM,Restaurant(20-50),2h,Female,36,Married partner,1,Bachelors degree,Education&Training&Library,$37500 - $49999,less1,,1~3,1~3,1~3,1,0,0,1,0,0
